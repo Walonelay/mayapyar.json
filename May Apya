@@ -1,4 +1,4 @@
-{"status":true,
+{"status":false,
 "linkone":"https://www.google.com/",
 "linktwo":"https://www.google.com/",
 "appId":"ca-app-pub-1194618771520741~8290682358",
@@ -6,7 +6,7 @@
 "native":"ca-app-pub-3940256099942544/6300978111",
 "title":"Update",
 "about":"My App Updated For More Videos",
-"update":"com.master.massagevideos",
+"update":"com.master.apyarzcar",
 "interstial":"ca-app-pub-1194618771520741/4038671996"
 
 }
